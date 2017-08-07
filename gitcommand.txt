@@ -1,0 +1,13 @@
+http://localhost:8080/job/MavenProject/GitHubPollLog/
+
+
+
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Abirajdesai/Abiproject.git
+git push -u origin master
+
